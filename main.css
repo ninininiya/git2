@@ -5,3 +5,20 @@
     box-sizing: border-box;
     padding: 20px;
   }
+.han.nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.han.nav ul li {
+    width: 100%;
+}
+
+.han.nav ul a {
+    color: #055c92;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
